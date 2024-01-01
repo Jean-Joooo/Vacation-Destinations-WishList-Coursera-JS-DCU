@@ -24,7 +24,7 @@
   
   const destCard = createDestinationCard(destName, destLocation, destPhoto, destDesc);
   
-  const wishListContainer = document. getElementById( 'destinations_container');
+  const wishListContainer = document.getElementById('destinations_container');
   
   
   if (wishListContainer .children. length === 0) {
@@ -91,8 +91,8 @@
   return card;
   
   function removeDestination(event) {
-  const card = event. target. parentElement.parentElement;
-  card. remove( );
+  const card = event.target.parentElement.parentElement;
+  card.remove( );
   
   }
 });
