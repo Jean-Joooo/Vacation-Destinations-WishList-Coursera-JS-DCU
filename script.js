@@ -9,7 +9,7 @@
   
   
   function handleFormSubmit(event) {
-  event: preventDefault ( );
+  event.preventDefault();
   
   
   const destName = event.target.elements ['name'].value;
