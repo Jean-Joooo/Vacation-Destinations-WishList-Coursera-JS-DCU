@@ -18,7 +18,7 @@
   const destDesc = event.target.elements ['description'].value;
   
   
-  for (var i = 0; i < detailsForm. length; i++) {
+  for (let i = 0; i < detailsForm. length; i++) {
   detailsForm.elements[i].value="";
   }
   
