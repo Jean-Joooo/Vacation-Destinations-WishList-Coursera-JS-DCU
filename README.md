@@ -12,4 +12,4 @@ Utilized HTML to create a minimalistic form for input.
 Employed JavaScript to capture user input and add destinations to a wishlist.
 Kept the interface clean and straightforward for easy usability.
 
-This JavaScript exercise showcased the simplicity of creating a basic interactive application. By crafting a Vacation Wishlist, the exercise highlighted the fundamental concepts of capturing user input and dynamically updating the interface. Explore the code and delve into the simplicity of JavaScript applications! If you have any questions, feel free to seek assistance in your coding journey. Happy coding! 
+This JavaScript exercise showcased the simplicity of creating a basic interactive application. By crafting a Vacation Wishlist, the exercise highlighted the fundamental concepts of capturing user input and dynamically updating the interface.
