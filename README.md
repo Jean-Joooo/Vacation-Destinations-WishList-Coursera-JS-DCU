@@ -2,12 +2,12 @@ Coursera UC Davis, JavaScript Practice Exercise, Vacation Wishlist -----> https:
 
 In this JavaScript exercise, I crafted a vacation wishlist to allow users to list their dream vacation destinations. The objective was to create a straightforward interface where users can input their desired destinations and see them added to a wishlist.
 
-Key Objectives
+Key Objectives:
 - Develop a basic interface for users to input vacation destinations.
 - Implement JavaScript functionality to add destinations to a wishlist.
 - Ensure a simple and intuitive user experience.
 
-Implementation
+Implementation:
 - Exploit HTML to create a minimalistic form for input.
 - Use of JavaScript to capture user input and add destinations to a wishlist.
 - Kept the interface clean and straightforward for easy usability.
