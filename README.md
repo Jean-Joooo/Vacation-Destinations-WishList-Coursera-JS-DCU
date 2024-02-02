@@ -12,4 +12,4 @@ Implementation
 - Use of JavaScript to capture user input and add destinations to a wishlist.
 - Kept the interface clean and straightforward for easy usability.
 
-This JavaScript exercise showcased the simplicity of creating a basic interactive application. By crafting a Vacation Wishlist, the exercise highlighted the fundamental concepts of capturing user input and dynamically updating the interface.
+This JavaScript exercise showcased the simplicity of creating a basic interactive application. By crafting a Vacation Wishlist, this exercise highlighted the fundamental concepts of capturing user input and dynamically updating the interface.
