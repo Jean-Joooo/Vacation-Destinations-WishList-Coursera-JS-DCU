@@ -1,4 +1,4 @@
-This was a Coursera UC Davis JavaScript Practice Exercise, the main objective was to create a straightforward interface where users can input their desired destinations and see them added to a wishlist-----> https://jean-joooo.github.io/Vacation-Destinations-WishList-Coursera-JS-UCD/ 
+This was a Coursera UC Davis JavaScript Practice Exercise, the main objective was to create a straightforward interface where users can input their desired destinations and see them added to a wishlist -----> https://jean-joooo.github.io/Vacation-Destinations-WishList-Coursera-JS-UCD/ 
 
 Key Objectives:
 - Develop a basic interface for users to input vacation destinations.
