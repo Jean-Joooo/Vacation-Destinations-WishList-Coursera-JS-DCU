@@ -1,4 +1,4 @@
-# Coursera | UC Davis JavaScript Practice Exercise
+# Coursera | UC Davis courses: JavaScript Practice Exercise
 
 The main objective was to create a straightforward interface where users can input their desired destinations and see them added to a wishlist
 
